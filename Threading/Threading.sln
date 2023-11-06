@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadTestFour", "ThreadTes
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadTestFive", "ThreadTestFive\ThreadTestFive.csproj", "{0ADC71D5-E8B8-4873-BA62-EC279D319C87}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForegroundThread", "ForegroundThread\ForegroundThread.csproj", "{C7C19998-DC63-44D3-84AD-DB38F288FB3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackgroundThread", "BackgroundThread\BackgroundThread.csproj", "{271182C7-B37F-4B64-863E-10F5FEE0B549}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{0ADC71D5-E8B8-4873-BA62-EC279D319C87}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0ADC71D5-E8B8-4873-BA62-EC279D319C87}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0ADC71D5-E8B8-4873-BA62-EC279D319C87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7C19998-DC63-44D3-84AD-DB38F288FB3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7C19998-DC63-44D3-84AD-DB38F288FB3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7C19998-DC63-44D3-84AD-DB38F288FB3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7C19998-DC63-44D3-84AD-DB38F288FB3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{271182C7-B37F-4B64-863E-10F5FEE0B549}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{271182C7-B37F-4B64-863E-10F5FEE0B549}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{271182C7-B37F-4B64-863E-10F5FEE0B549}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{271182C7-B37F-4B64-863E-10F5FEE0B549}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

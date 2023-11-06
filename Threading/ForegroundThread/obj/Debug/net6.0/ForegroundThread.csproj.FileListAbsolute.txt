@@ -1,0 +1,15 @@
+C:\projects\threading\Threading\ForegroundThread\bin\Debug\net6.0\ForegroundThread.exe
+C:\projects\threading\Threading\ForegroundThread\bin\Debug\net6.0\ForegroundThread.deps.json
+C:\projects\threading\Threading\ForegroundThread\bin\Debug\net6.0\ForegroundThread.runtimeconfig.json
+C:\projects\threading\Threading\ForegroundThread\bin\Debug\net6.0\ForegroundThread.dll
+C:\projects\threading\Threading\ForegroundThread\bin\Debug\net6.0\ForegroundThread.pdb
+C:\projects\threading\Threading\ForegroundThread\obj\Debug\net6.0\ForegroundThread.csproj.AssemblyReference.cache
+C:\projects\threading\Threading\ForegroundThread\obj\Debug\net6.0\ForegroundThread.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\threading\Threading\ForegroundThread\obj\Debug\net6.0\ForegroundThread.AssemblyInfoInputs.cache
+C:\projects\threading\Threading\ForegroundThread\obj\Debug\net6.0\ForegroundThread.AssemblyInfo.cs
+C:\projects\threading\Threading\ForegroundThread\obj\Debug\net6.0\ForegroundThread.csproj.CoreCompileInputs.cache
+C:\projects\threading\Threading\ForegroundThread\obj\Debug\net6.0\ForegroundThread.dll
+C:\projects\threading\Threading\ForegroundThread\obj\Debug\net6.0\refint\ForegroundThread.dll
+C:\projects\threading\Threading\ForegroundThread\obj\Debug\net6.0\ForegroundThread.pdb
+C:\projects\threading\Threading\ForegroundThread\obj\Debug\net6.0\ForegroundThread.genruntimeconfig.cache
+C:\projects\threading\Threading\ForegroundThread\obj\Debug\net6.0\ref\ForegroundThread.dll
