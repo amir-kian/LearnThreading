@@ -1,0 +1,15 @@
+C:\projects\threading\Threading\ThreadTestThree\bin\Debug\net6.0\ThreadTestThree.exe
+C:\projects\threading\Threading\ThreadTestThree\bin\Debug\net6.0\ThreadTestThree.deps.json
+C:\projects\threading\Threading\ThreadTestThree\bin\Debug\net6.0\ThreadTestThree.runtimeconfig.json
+C:\projects\threading\Threading\ThreadTestThree\bin\Debug\net6.0\ThreadTestThree.dll
+C:\projects\threading\Threading\ThreadTestThree\bin\Debug\net6.0\ThreadTestThree.pdb
+C:\projects\threading\Threading\ThreadTestThree\obj\Debug\net6.0\ThreadTestThree.csproj.AssemblyReference.cache
+C:\projects\threading\Threading\ThreadTestThree\obj\Debug\net6.0\ThreadTestThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\threading\Threading\ThreadTestThree\obj\Debug\net6.0\ThreadTestThree.AssemblyInfoInputs.cache
+C:\projects\threading\Threading\ThreadTestThree\obj\Debug\net6.0\ThreadTestThree.AssemblyInfo.cs
+C:\projects\threading\Threading\ThreadTestThree\obj\Debug\net6.0\ThreadTestThree.csproj.CoreCompileInputs.cache
+C:\projects\threading\Threading\ThreadTestThree\obj\Debug\net6.0\ThreadTestThree.dll
+C:\projects\threading\Threading\ThreadTestThree\obj\Debug\net6.0\refint\ThreadTestThree.dll
+C:\projects\threading\Threading\ThreadTestThree\obj\Debug\net6.0\ThreadTestThree.pdb
+C:\projects\threading\Threading\ThreadTestThree\obj\Debug\net6.0\ThreadTestThree.genruntimeconfig.cache
+C:\projects\threading\Threading\ThreadTestThree\obj\Debug\net6.0\ref\ThreadTestThree.dll

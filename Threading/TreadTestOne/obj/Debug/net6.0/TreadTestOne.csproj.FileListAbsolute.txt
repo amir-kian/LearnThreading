@@ -1,0 +1,15 @@
+C:\projects\threading\Threading\TreadTestOne\bin\Debug\net6.0\TreadTestOne.exe
+C:\projects\threading\Threading\TreadTestOne\bin\Debug\net6.0\TreadTestOne.deps.json
+C:\projects\threading\Threading\TreadTestOne\bin\Debug\net6.0\TreadTestOne.runtimeconfig.json
+C:\projects\threading\Threading\TreadTestOne\bin\Debug\net6.0\TreadTestOne.dll
+C:\projects\threading\Threading\TreadTestOne\bin\Debug\net6.0\TreadTestOne.pdb
+C:\projects\threading\Threading\TreadTestOne\obj\Debug\net6.0\TreadTestOne.csproj.AssemblyReference.cache
+C:\projects\threading\Threading\TreadTestOne\obj\Debug\net6.0\TreadTestOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\threading\Threading\TreadTestOne\obj\Debug\net6.0\TreadTestOne.AssemblyInfoInputs.cache
+C:\projects\threading\Threading\TreadTestOne\obj\Debug\net6.0\TreadTestOne.AssemblyInfo.cs
+C:\projects\threading\Threading\TreadTestOne\obj\Debug\net6.0\TreadTestOne.csproj.CoreCompileInputs.cache
+C:\projects\threading\Threading\TreadTestOne\obj\Debug\net6.0\TreadTestOne.dll
+C:\projects\threading\Threading\TreadTestOne\obj\Debug\net6.0\refint\TreadTestOne.dll
+C:\projects\threading\Threading\TreadTestOne\obj\Debug\net6.0\TreadTestOne.pdb
+C:\projects\threading\Threading\TreadTestOne\obj\Debug\net6.0\TreadTestOne.genruntimeconfig.cache
+C:\projects\threading\Threading\TreadTestOne\obj\Debug\net6.0\ref\TreadTestOne.dll

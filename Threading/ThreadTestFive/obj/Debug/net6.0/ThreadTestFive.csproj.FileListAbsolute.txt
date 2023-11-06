@@ -1,0 +1,15 @@
+C:\projects\threading\Threading\ThreadTestFive\bin\Debug\net6.0\ThreadTestFive.exe
+C:\projects\threading\Threading\ThreadTestFive\bin\Debug\net6.0\ThreadTestFive.deps.json
+C:\projects\threading\Threading\ThreadTestFive\bin\Debug\net6.0\ThreadTestFive.runtimeconfig.json
+C:\projects\threading\Threading\ThreadTestFive\bin\Debug\net6.0\ThreadTestFive.dll
+C:\projects\threading\Threading\ThreadTestFive\bin\Debug\net6.0\ThreadTestFive.pdb
+C:\projects\threading\Threading\ThreadTestFive\obj\Debug\net6.0\ThreadTestFive.csproj.AssemblyReference.cache
+C:\projects\threading\Threading\ThreadTestFive\obj\Debug\net6.0\ThreadTestFive.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\threading\Threading\ThreadTestFive\obj\Debug\net6.0\ThreadTestFive.AssemblyInfoInputs.cache
+C:\projects\threading\Threading\ThreadTestFive\obj\Debug\net6.0\ThreadTestFive.AssemblyInfo.cs
+C:\projects\threading\Threading\ThreadTestFive\obj\Debug\net6.0\ThreadTestFive.csproj.CoreCompileInputs.cache
+C:\projects\threading\Threading\ThreadTestFive\obj\Debug\net6.0\ThreadTestFive.dll
+C:\projects\threading\Threading\ThreadTestFive\obj\Debug\net6.0\refint\ThreadTestFive.dll
+C:\projects\threading\Threading\ThreadTestFive\obj\Debug\net6.0\ThreadTestFive.pdb
+C:\projects\threading\Threading\ThreadTestFive\obj\Debug\net6.0\ThreadTestFive.genruntimeconfig.cache
+C:\projects\threading\Threading\ThreadTestFive\obj\Debug\net6.0\ref\ThreadTestFive.dll
